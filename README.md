@@ -1,52 +1,56 @@
-<h1 align="center"> DevLinks </h1>
+<div align="center">
 
-<p align="center">
-Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
-<a href="https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito">Estude esse projeto em formato de vídeo clicando aqui.</a>
-</p>
+# Elias Rodrigues
 
-<p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
-</p>
+**DADOS · AUTOMAÇÃO · DESENVOLVIMENTO WEB**
 
-<p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
-</p>
+Soluções práticas para conectar processos, informação e pessoas.
 
-<br>
+[Portfólio & contato](https://eliasnrodrigues.github.io/contato/) · [LinkedIn](https://www.linkedin.com/in/elias-rodrigues-a466811a9/) · [Instagram](https://www.instagram.com/eliasnrodrigues/)
 
-<p align="center">
-  <img alt="projeto DevLinks" src=".github/preview.jpg" width="100%">
-</p>
-
-## 🚀 Tecnologias
-
-Esse projeto foi desenvolvido com as seguintes tecnologias:
-
-- HTML e CSS
-- JavaScript
-- Git e Github
-- Figma
-
-## 💻 Projeto
-
-O DevLinks é um agregador de links para usar como cartão de visitas online.
-
-- [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks)
-
-- [Assistir aulas](https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito)
-
-## 🔖 Layout
-
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1187422022288947321). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
-
-## :memo: Licença
-
-Esse projeto está sob a licença MIT.
+</div>
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+### Sobre mim
+
+Sou Elias Rodrigues, também conhecido como **SAILE**. Minha experiência em logística hospitalar me aproximou de problemas reais de estoque, compras e acompanhamento de operações — e da tecnologia como ferramenta para resolvê-los.
+
+Desenvolvo soluções com **Power BI, Power Apps e Power Automate**, além de páginas web com HTML, CSS e JavaScript. Também atuo com áudio ao vivo e produção musical, unindo organização técnica e criatividade.
+
+### O que construo
+
+- **Dados e indicadores:** painéis para acompanhar estoques, compras e rotinas operacionais.
+- **Aplicativos e automações:** soluções para solicitações, movimentação de materiais e acompanhamento de processos.
+- **Experiências web:** páginas responsivas para apresentar projetos e facilitar conexões.
+
+### Tecnologias e ferramentas
+
+| Área | Ferramentas |
+| --- | --- |
+| Dados & BI | Power BI, DAX, Power Query, Excel |
+| Aplicativos & automação | Power Apps, Power Automate, SharePoint, Office Scripts |
+| Desenvolvimento web | HTML, CSS, JavaScript, Git e GitHub |
+| Estudos e prática | SQL, Python |
+
+### Projeto em destaque
+
+#### [Página de contato e portfólio](https://eliasnrodrigues.github.io/contato/)
+
+Uma página responsiva que reúne meu portfólio, redes profissionais e contato por WhatsApp. Possui temas claro e escuro, fotos sincronizadas com o tema e opções de contato por área de atuação.
+
+**HTML · CSS · JavaScript · GitHub Pages**
+
+[Abrir o site →](https://eliasnrodrigues.github.io/contato/) · [Explorar o código →](https://github.com/eliasnrodrigues/contato)
+
+### Além do código
+
+A música também faz parte do meu trabalho. Atuo com mixagem de áudio ao vivo, edição de áudio e produção musical como **SAILE**.
+
+[Ouça meu portfólio de áudio →](https://youtube.com/playlist?list=PL7TyXdBTDNoXpVn2feaHuZI7WtAUNh9y8)
+
+### Vamos conversar?
+
+Tenho interesse em projetos que combinem tecnologia, melhoria de processos e criatividade.
+
+[WhatsApp](https://wa.me/5511976649026) · [LinkedIn](https://www.linkedin.com/in/elias-rodrigues-a466811a9/) · [Todos os meus links](https://eliasnrodrigues.github.io/contato/)
